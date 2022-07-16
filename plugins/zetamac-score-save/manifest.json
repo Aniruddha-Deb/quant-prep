@@ -1,0 +1,18 @@
+{
+	"name": "Zetamac Score Logger",
+	"version": "1.0",
+	"description": "Logs zetamac scores to a logfile with datetimes",
+	"content_scripts": [ {
+		"matches": ["https://arithmetic.zetamac.com/game*"],
+		"run_at": "document_end",
+		"js": ["jquery.min.js", "plugin.js"]
+	} ],
+	"icons": {
+		"36": "icons/icon36.png",
+		"48": "icons/icon48.png",
+		"96": "icons/icon96.png",
+		"192": "icons/icon192.png",
+		"512": "icons/icon512.png"
+	},
+	"manifest_version": 2
+}
