@@ -5,5 +5,6 @@
 - Created this repo + the zetamac plugin
 
 ## 17 July
-- 30 min mental math
+- Zetamac: 52
+- Tradertest 2 Optiver: 56
 - Probability TODO's from TODO.md
