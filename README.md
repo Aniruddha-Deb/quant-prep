@@ -74,3 +74,5 @@ Might probably publish a blog post on this, along with some learnings in the who
 **TL;DR**: I'll be an SWE intern at Optiver this summer! :)
 
 ![zetamac scores](zetamac_scores.png)
+
+![Intern search](intern-search.png)
