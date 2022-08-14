@@ -9,6 +9,7 @@ Deciding on your targets helps you with prep: some companies have different styl
 1. **Jane Street**: The big daddy. Four to Five rounds of interviews from what I've heard, along with one (maybe two?) subjective online tests. Depth of thought is important, along with (as very aptly phrased on quora) _an intuitive understanding of expectation and variance of hard to estimate quantities_. Unsaid IMO prerequisite?
 2. **Optiver**: Human calculators go here. There's a 80 question, 8 minute mental math test, followed by a sequences test and then a subjective probability test. The mental math test weeds out almost all the candidates from what I've heard, and following the online tests, there's a market making group discussion, followed by more interviews, which are just as gruelling as Jane Street
 3. **QuantBox SG**: Quant Shop made by ex-Graviton, very recent, so don't know much about them. Interview process will most probably just be puzzles and stuff (I should contact seniors about this)
+4. **Tower**: Very systems heavy, traders need to have deep systems knowledge. It's a nice place to work but are very picky choosy with who they shortlist and what they do with them.
 
 There are others as well (Quadeye, Graviton, NK, APT) but I chose to take only foreign quant <strike>Because they pay amazingly well</strike> as I wanted to tour a bit, considering how almost everyone in my year went abroad for a research intern this summer.
 
@@ -65,3 +66,11 @@ A (non-exhaustive) list of very common problems to be familiar with:
 * Three Drawer Paradox (and variations - tie, two envelope, etc)
 
 That's about it, I guess.
+
+## Hindsight
+
+Might probably publish a blog post on this, along with some learnings in the whole process.
+
+**TL;DR**: I'll be an SWE intern at Optiver this summer! :)
+
+![zetamac scores](zetamac_scores.png)
