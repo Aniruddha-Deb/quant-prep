@@ -11,7 +11,7 @@ Deciding on your targets helps you with prep: some companies have different styl
 3. **QuantBox SG**: Quant Shop made by ex-Graviton, very recent, so don't know much about them. Interview process will most probably just be puzzles and stuff (I should contact seniors about this)
 4. **Tower**: Very systems heavy, traders need to have deep systems knowledge. It's a nice place to work but are very picky choosy with who they shortlist and what they do with them.
 
-There are others as well (Quadeye, Graviton, NK, APT) but I chose to take only foreign quant <strike>Because they pay amazingly well</strike> as I wanted to tour a bit, considering how almost everyone in my year went abroad for a research intern this summer.
+There are others as well (Quadeye, Graviton, NK, APT), a few of which I applied to, but I wanted to go for an offshore role, considering how almost everyone in my year went abroad for a research intern this summer.
 
 ## Books
 
