@@ -28,7 +28,7 @@ Books others have recommended but I didn't read:
 1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 50, peak of 60 on default settings
 2. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
 3. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
-4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level
+4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingINterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
 5. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
 
 ## More Puzzles/Problems
