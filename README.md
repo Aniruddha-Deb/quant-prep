@@ -33,8 +33,9 @@ Books others have recommended but I didn't read:
 
 ## More Puzzles/Problems
 
-1. **[Brainstellar](https://brainstellar.com)** - good puzzles, but the hard ones are not so hard, and they finish up rather quickly. 
-2. **[Jane Street's Puzzles](https://www.janestreet.com/puzzles/archive/index.html)** - If anything, these are a level above what I think will be asked on the interview. Absolutely a pleasure to sink your teeth into: need both deep insight and flexible thinking to solve. Some of the relevant ones are
+1. **[Brainstellar](https://brainstellar.com)** - good puzzles, but the hard ones are not so hard, and they finish up rather quickly.
+2. **[Sarah Chieng's blog](https://milksandmatcha.notion.site/Free-Trading-Resources-v2-4456ae906000487181f3486dbd0dd631)** - Spied recently on twitter, has some amazing stuff.
+3. **[Jane Street's Puzzles](https://www.janestreet.com/puzzles/archive/index.html)** - If anything, these are a level above what I think will be asked on the interview. Absolutely a pleasure to sink your teeth into: need both deep insight and flexible thinking to solve. Some of the relevant ones are
     * [Robot Tug-of-war](https://www.janestreet.com/puzzles/robot-tug-of-war-index/)
     * [Andy's Morning Stroll](https://www.janestreet.com/puzzles/current-puzzle/)
     * [Bracketology 101](https://www.janestreet.com/puzzles/bracketology-101-index/)
@@ -42,16 +43,16 @@ Books others have recommended but I didn't read:
     * [Alter/Nate](https://www.janestreet.com/puzzles/alter-nate-index/)
     * [Candy Collectors](https://www.janestreet.com/puzzles/candy-collectors-index/)
     * [Single Cross](https://www.janestreet.com/puzzles/single-cross-index/)
-3. [Twenty Probability Problems](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/chpr.pdf)
-4. [Evan Chen's Probability Handout](https://web.evanchen.cc/handouts/ProbabilisticMethod/ProbabilisticMethod.pdf)
-5. [AoPS Intermediate Probability Problems](https://artofproblemsolving.com/wiki/index.php/Category:Intermediate_Probability_Problems) - Mostly from AIME/Other olympiads
-6. [Putnam Probability questions](http://www.math.utoronto.ca/barbeau/putnamprob.pdf) - ft. the [Infamous 1992 A-6 Problem](https://www.youtube.com/watch?v=OkmNXy7er84&ab_channel=3Blue1Brown)
-7. [Jerry Qin's List of Probability Questions](https://jerryqin.com/) - as previously mentioned
-8. [Sums and Expcted Value](https://codeforces.com/blog/entry/62690) by Errichto: has some nice problems
-9. The random Wall Street Oasis/QuantNet threads on these questions - [here](https://quantnet.com/threads/big-list-of-quant-interview-questions-with-answers.36240/), [here](https://quantnet.com/threads/jane-street-interview-questions.3039/), [here](https://quantnet.com/threads/jane-street-capital-second-round-interview.12565/), [here](https://quantnet.com/threads/compilation-of-jane-street-interview-questions.17941/), [here](https://quantnet.com/threads/jane-street-interview-question-needing-help.7591/), [here](https://www.glassdoor.co.in/Interview/Jane-Street-Hong-Kong-Interview-Questions-EI_IE255549.0,11_IL.12,21_IC2308631.htm) - One Glassdoor reviewer said that you should _Forget about the green book - only do dice and card problems and scrape the whole glassdoor_ for Jane Street.
-10. Some questions [here](http://williamdemeo.github.io/2014/03/19/probability-quiz/) and [here](https://github.com/ptmminh/quanttest) (very similar questions in both though, doing one thoroughly should be sufficient)
-11. [Quant Interview Prep](https://www.math.lsu.edu/~smolinsk/Quant_Interview_Prep.pdf) handout by Aaron Cao
-12. [Glassdoor Quant Compilation](https://www.glassdoor.co.in/Interview/quant-interview-questions-SRCH_KO0,5_IP2.htm) (got this from the handout above - very handy)
+4. [Twenty Probability Problems](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/chpr.pdf)
+5. [Evan Chen's Probability Handout](https://web.evanchen.cc/handouts/ProbabilisticMethod/ProbabilisticMethod.pdf)
+6. [AoPS Intermediate Probability Problems](https://artofproblemsolving.com/wiki/index.php/Category:Intermediate_Probability_Problems) - Mostly from AIME/Other olympiads
+7. [Putnam Probability questions](http://www.math.utoronto.ca/barbeau/putnamprob.pdf) - ft. the [Infamous 1992 A-6 Problem](https://www.youtube.com/watch?v=OkmNXy7er84&ab_channel=3Blue1Brown)
+8. [Jerry Qin's List of Probability Questions](https://jerryqin.com/) - as previously mentioned
+9. [Sums and Expcted Value](https://codeforces.com/blog/entry/62690) by Errichto: has some nice problems
+10. The random Wall Street Oasis/QuantNet threads on these questions - [here](https://quantnet.com/threads/big-list-of-quant-interview-questions-with-answers.36240/), [here](https://quantnet.com/threads/jane-street-interview-questions.3039/), [here](https://quantnet.com/threads/jane-street-capital-second-round-interview.12565/), [here](https://quantnet.com/threads/compilation-of-jane-street-interview-questions.17941/), [here](https://quantnet.com/threads/jane-street-interview-question-needing-help.7591/), [here](https://www.glassdoor.co.in/Interview/Jane-Street-Hong-Kong-Interview-Questions-EI_IE255549.0,11_IL.12,21_IC2308631.htm) - One Glassdoor reviewer said that you should _Forget about the green book - only do dice and card problems and scrape the whole glassdoor_ for Jane Street.
+11. Some questions [here](http://williamdemeo.github.io/2014/03/19/probability-quiz/) and [here](https://github.com/ptmminh/quanttest) (very similar questions in both though, doing one thoroughly should be sufficient)
+12. [Quant Interview Prep](https://www.math.lsu.edu/~smolinsk/Quant_Interview_Prep.pdf) handout by Aaron Cao
+13. [Glassdoor Quant Compilation](https://www.glassdoor.co.in/Interview/quant-interview-questions-SRCH_KO0,5_IP2.htm) (got this from the handout above - very handy)
 
 ## Other things
 
