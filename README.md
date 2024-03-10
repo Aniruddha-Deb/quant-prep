@@ -2,33 +2,22 @@
 
 Inspired by [Jerry Qin](https://jerryqin.com), I decided to log my quant preparation as well. I've been going about it in an unstructured, indisciplined way so far, but have made progress (at the expense of other things), and thought that keeping a log of what I've accomplished should be helpful
 
-## The Targets
-
-Deciding on your targets helps you with prep: some companies have different styles/rounds of interviewing, and there's no one size fits all. With that said, here are a 
-
-1. **Jane Street**: The big daddy. Four to Five rounds of interviews from what I've heard, along with one (maybe two?) subjective online tests. Depth of thought is important, along with (as very aptly phrased on quora) _an intuitive understanding of expectation and variance of hard to estimate quantities_. Unsaid IMO prerequisite?
-2. **Optiver**: Human calculators go here. There's a 80 question, 8 minute mental math test, followed by a sequences test and then a subjective probability test. The mental math test weeds out almost all the candidates from what I've heard, and following the online tests, there's a market making group discussion, followed by more interviews, which are just as gruelling as Jane Street
-3. **QuantBox SG**: Quant Shop made by ex-Graviton, very recent, so don't know much about them. Interview process will most probably just be puzzles and stuff (I should contact seniors about this)
-4. **Tower**: Very systems heavy, traders need to have deep systems knowledge. It's a nice place to work but are very picky choosy with who they shortlist and what they do with them.
-
-There are others as well (Quadeye, Graviton, NK, APT), a few of which I applied to, but I wanted to go for an offshore role, considering how almost everyone in my year went abroad for a research intern this summer.
-
 ## Books
 
-1. **Xinfeng Zhou** - Blah Blah Blah Quant Finance Interviews. Amazing book. Especially the brainteasers and Probability section. Must do
+1. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
 2. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
 3. **Mark Joshi** - Too broad to be very useful
 4. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
 
 Books others have recommended but I didn't read:
-1. **Heard on the street** - sounded like Cracking the Coding Interview but for quant, and I _detest_ that book.
+1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
 
 ## Mental Math
 
 1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 50, peak of 60 on default settings
 2. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
 3. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
-4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingINterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
+4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingInterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
 5. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
 
 ## More Puzzles/Problems
