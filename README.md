@@ -23,7 +23,7 @@ Books others have recommended but I didn't read:
 ## More Puzzles/Problems
 
 1. **[Brainstellar](https://brainstellar.com)** - good puzzles, but the hard ones are not so hard, and they finish up rather quickly.
-2. **[quantguide.io](http://quantguide.io/)** - looks like a newer and better brainstellar. Leetcode for quant. Problems organized by company. However, make sure to give as much decimal precision, or enter your answer as a fraction if it doesn't get accepted ([This is a horrible question](https://www.quantguide.io/questions/car-question-i) which doesn't take decimal answers) 
+2. **[quantguide.io](http://quantguide.io/)** - looks like a newer and better brainstellar. Leetcode for quant. Problems organized by company. However, make sure to give as much decimal precision, or enter your answer as a fraction if it doesn't get accepted (eg [This is a question](https://www.quantguide.io/questions/car-question-i) which doesn't take decimal answers) 
 3. **[Sarah Chieng's blog](https://milksandmatcha.notion.site/Free-Trading-Resources-v2-4456ae906000487181f3486dbd0dd631)** - Spied recently on twitter, has some amazing stuff.
 4. **[Jane Street's Puzzles](https://www.janestreet.com/puzzles/archive/index.html)** - If anything, these are a level above what I think will be asked on the interview. Absolutely a pleasure to sink your teeth into: need both deep insight and flexible thinking to solve. Some of the relevant ones are
     * [Robot Tug-of-war](https://www.janestreet.com/puzzles/robot-tug-of-war-index/)
