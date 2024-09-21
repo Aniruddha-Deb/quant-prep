@@ -8,7 +8,7 @@ Inspired by [Jerry Qin](https://jerryqin.com), I decided to log my quant prepara
 2. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
 3. **Mark Joshi** - Too broad to be very useful
 4. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
-5. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - New, didn't exist when I was interviewing. Looks like a very good resource, but haven't got the time to go through it all yet
+5. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.
 
 Books others have recommended but I didn't read:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
