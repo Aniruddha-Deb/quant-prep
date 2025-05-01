@@ -2,6 +2,8 @@
 
 Inspired by [Jerry Qin](https://jerryqin.com), I decided to log my quant preparation as well. I've been going about it in an unstructured, indisciplined way so far, but have made progress (at the expense of other things), and thought that keeping a log of what I've accomplished should be helpful
 
+**UPDATE May 2025**: This is 3 years old at this point and sporadically updated - there may be better guides out there.
+
 ## Books
 
 1. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
@@ -20,6 +22,7 @@ Books others have recommended but I didn't read:
 3. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
 4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingInterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
 5. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
+6. [Matiks](https://www.matiks.in/) - spied on linkedin. QuizUp (RIP) meets mental math. Quite fun, but not too many people yet (will change as more people get on it). My gut feel is most guests are bots/replays, but the experience is not bad and this is a decent substitute for the lack of people on the platform right now. Maybe not super relevant to trading per se, didn't see many division/big multiplication problems but the competition dopamine makes up for it.
 
 ## More Puzzles/Problems
 
